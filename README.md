@@ -3,8 +3,8 @@
 A full-stack Retrieval-Augmented Generation app that answers life questions using retrieved verses from the Bhagavad Gita.
 
 **Detailed docs**
-- [backend/README.md](./backend/README.md) — API, RAG pipeline, database, ingest, every module
-- [frontend/README.md](./frontend/README.md) — UI architecture, components, state, themes, panels
+- [backend/README.md](./backend/README_BACKEND.md) — API, RAG pipeline, database, ingest, every module
+- [frontend/README.md](./frontend/README_FRONTEND.md) — UI architecture, components, state, themes, panels
 
 **Stack**
 - **Backend:** Python, FastAPI, SQLAlchemy (SQLite), ChromaDB, LangChain, sentence-transformers (`all-MiniLM-L6-v2`), OpenAI `gpt-4o-mini`
